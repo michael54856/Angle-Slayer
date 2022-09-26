@@ -1,7 +1,7 @@
 # Angle-Slayer
 利用Unity3D所製作而成的Prototype
 <br>
-<img src="https://github.com/michael54856/Angle-Slayer/blob/main/ReadmeImage/run.png" height="50%">
+<img src="https://github.com/michael54856/Angle-Slayer/blob/main/ReadmeImage/run.png" width="30%">
 
 ## 核心玩法
 玩家需要用手指移動藍色球體，並且可以滑動來進行衝刺。
